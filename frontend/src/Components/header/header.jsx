@@ -30,15 +30,16 @@ const Header = () => {
                 <i className="uil uil-file-alt nav__icon"></i> Skills
               </a>
             </li>
-            {/* <li className="nav__item">
-              <a href="#skills" className="nav__link">
-                <i className="uil uil nav__icon"></i> 
-              </a>
-            </li> */}
 
             <li className="nav__item">
               <a href="#work" className="nav__link">
                 <i className="uil uil-dialpad nav__icon"></i>Work
+              </a>
+            </li>
+
+            <li className="nav__item">
+              <a href="#contact" className="nav__link">
+                <i className="uil uil-message nav__icon"></i>Contact
               </a>
             </li>
           </ul>

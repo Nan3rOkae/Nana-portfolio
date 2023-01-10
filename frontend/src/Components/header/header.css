@@ -23,7 +23,6 @@
 .nav__list {
   display: flex;
   column-gap: 2rem;
-  
 }
 
 .nav__link {
@@ -107,6 +106,4 @@
   .nav_menu {
     padding: 2rem 0.25rem 4rem;
   }
-
- 
 }
