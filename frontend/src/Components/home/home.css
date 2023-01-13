@@ -94,7 +94,7 @@
 
 .home__scroll-arrow {
   font-size: 1.25rem;
-  /* color: var(--title-color); */
+  color: var(--title-color);
 }
 
 /*=============== BREAKPOINTS ===============*/

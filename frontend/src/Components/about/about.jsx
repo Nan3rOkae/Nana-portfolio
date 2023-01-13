@@ -14,7 +14,7 @@ const About = () => {
         <img alt="img" src={face} className="about__img" />
         <div className="about__data">
           <p className="about__description">
-            I am a computer science student at Virginia Commonwealth University
+            • I am a computer science student at Virginia Commonwealth University
             interested in designing and developing user interfaces for web
             applications. I have a keen eye for detail and focus on user
             research. My goal is to create visually stunning mockups and
