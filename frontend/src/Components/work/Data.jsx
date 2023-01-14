@@ -1,5 +1,6 @@
 import react from "../../assets/react.png";
 import figma from "../../assets/figma.png";
+import html from "../../assets/html.png";
 
 export const Data = [
   {
@@ -20,7 +21,7 @@ export const Data = [
   },
   {
     id: 3,
-    image: react,
+    image: html,
     title: "Flixster",
     description:
       "I developed a movie lookup website using TMDb API, offering a comprehensive film database, search functionality, and responsive design for optimal user experience across devices.",
