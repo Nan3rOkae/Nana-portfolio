@@ -21,10 +21,9 @@ const About = () => {
           <p className="about__description">
             • I am a computer science student at Virginia Commonwealth
             University interested in designing and developing user interfaces
-            for web applications. I have a keen eye for detail and focus on user
-            research. My goal is to create visually stunning mockups and
-            implement them with the latest technologies and work as a front-end
-            or full-stack developer in an innovative organization.
+            for web applications. My goal is to create visually stunning mockups
+            and implement them with the latest technologies and work as a
+            front-end or full-stack developer in an innovative organization.
           </p>
           <Info />
           <a download="" href={resume} className="button button--flex">

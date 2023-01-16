@@ -43,3 +43,6 @@
 .footer__social-link {
     background-color: var(--title-color-dark);
 }
+a{
+  color: var(--title-color);
+}
