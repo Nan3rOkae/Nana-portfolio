@@ -7,17 +7,21 @@ import profile from "../../assets/profile.png";
 
 const About = () => {
   return (
-    <section className="about section" id="about">
+    <section className="about section" id="about" data-aos="fade-down">
       <h2 className="section__title"> About Me</h2>
       <span className="section__subtitle">My introduction</span>
 
-      <div className="about__container container grid">
+      <div
+        className="about__container container grid"
+        data-aos="fade-down"
+        data-aos-easing="linear"
+        data-aos-duration="800">
         <img alt="img" src={profile} className="about__img" />
         <div className="about__data">
           <p className="about__description">
-            • I am a computer science student at Virginia Commonwealth University
-            interested in designing and developing user interfaces for web
-            applications. I have a keen eye for detail and focus on user
+            • I am a computer science student at Virginia Commonwealth
+            University interested in designing and developing user interfaces
+            for web applications. I have a keen eye for detail and focus on user
             research. My goal is to create visually stunning mockups and
             implement them with the latest technologies and work as a front-end
             or full-stack developer in an innovative organization.

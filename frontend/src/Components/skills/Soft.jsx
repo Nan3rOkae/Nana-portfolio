@@ -2,7 +2,11 @@ import React from "react";
 
 const Soft = () => {
   return (
-    <div className="skills__content">
+    <div
+      className="skills__content"
+      data-aos="fade-down"
+      data-aos-easing="linear"
+      data-aos-duration="800">
       <h3 className="skills__title">Soft</h3>
       <div className="skills__box">
         <div className="skills__group">

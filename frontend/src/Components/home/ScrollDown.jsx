@@ -3,7 +3,11 @@ import React from "react";
 
 const ScrollDown = () => {
   return (
-    <div className="home__scroll">
+    <div
+      className="home__scroll"
+      data-aos="fade-down"
+      data-aos-easing="linear"
+      data-aos-duration="800">
       <a href="#about" className="home__scroll-button button--flex">
         <svg
           width="32px"

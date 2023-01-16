@@ -10,10 +10,10 @@ const info = () => {
         <span className="about__subtitle">
           I developed a web application that teaches users about internet
           security through interactive means. I used Full Stack web development
-          technologies (React.js, Express.js, Node.js, and Git) to
-          build the application and participated in agile practices like daily
-          stand-ups and weekly sprint demo meetings. I also received mentorship
-          from software engineering professionals at Salesforce.
+          technologies (React.js, Express.js, Node.js, and Git) to build the
+          application and participated in agile practices like daily stand-ups
+          and weekly sprint demo meetings. I also received mentorship from
+          software engineering professionals at Salesforce.
         </span>
       </div>
     </div>
