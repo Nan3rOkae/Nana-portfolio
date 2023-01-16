@@ -12,19 +12,14 @@ import { Pagination } from "swiper";
 
 const Work = () => {
   return (
-    <section
-      className="work section"
-      id="work"
-      data-aos="fade-down"
-      data-aos-easing="linear"
-      data-aos-duration="1100">
+    <section className="work section" id="work" data-aos="fade-down">
       <h2 className="section__title">Work</h2>
       <span className="section__subtitle">My recent work</span>
 
       <Swiper
         data-aos="fade-down"
         data-aos-easing="linear"
-        data-aos-duration="1100"
+        data-aos-duration="600"
         className="work__container"
         loop={true}
         grabCursor={true}

@@ -1,5 +1,5 @@
 .work__container {
-  width: 750px;
+  width: 1100px;
 }
 
 .work__card {
@@ -51,29 +51,28 @@
   }
 }
 @media screen and (max-width: 768px) {
-   .work__card:hover {
-  background-color: var(--container-color);
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 1.5rem 2rem;
-  border-radius: 0.5rem;
-  margin-bottom: var(--mb-5);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease-in-out;
-}
+  .work__card:hover {
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    margin-bottom: var(--mb-5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+  }
 }
 
 @media screen and (max-width: 380px) {
- .work__container {
+  .work__container {
     width: initial;
   }
   .work__card:hover {
-  background-color: var(--container-color);
-  border: 1px solid rgba(0, 0, 0, 0.1);
-  padding: 1.5rem 2rem;
-  border-radius: 0.5rem;
-  margin-bottom: var(--mb-5);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease-in-out;
+    background-color: var(--container-color);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    margin-bottom: var(--mb-5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
   }
-    
 }

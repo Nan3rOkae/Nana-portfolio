@@ -7,7 +7,7 @@ const ScrollDown = () => {
       className="home__scroll"
       data-aos="fade-down"
       data-aos-easing="linear"
-      data-aos-duration="800">
+      data-aos-duration="600">
       <a href="#about" className="home__scroll-button button--flex">
         <svg
           width="32px"

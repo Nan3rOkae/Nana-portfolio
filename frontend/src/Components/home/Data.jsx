@@ -6,7 +6,7 @@ const Data = () => {
       className="home__data"
       data-aos="fade-down"
       data-aos-easing="linear"
-      data-aos-duration="800">
+      data-aos-duration="600">
       <h1 className="home__title">Hi, I'm Nana :)</h1>
       <h3 className="home__subtitle">Computer Science student</h3>
       <p className="home__description">

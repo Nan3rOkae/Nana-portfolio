@@ -6,7 +6,7 @@ const Social = () => {
       className="home__social"
       data-aos="fade-down"
       data-aos-easing="linear"
-      data-aos-duration="800">
+      data-aos-duration="600">
       <a
         href="https://github.com/Nan3rOkae"
         className="home__social-icon"

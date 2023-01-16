@@ -15,7 +15,7 @@ const About = () => {
         className="about__container container grid"
         data-aos="fade-down"
         data-aos-easing="linear"
-        data-aos-duration="800">
+        data-aos-duration="600">
         <img alt="img" src={profile} className="about__img" />
         <div className="about__data">
           <p className="about__description">
