@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nana-portfolio/static/css/main.487bbef8.css",
+    "main.js": "/Nana-portfolio/static/js/main.6a0f0277.js",
+    "static/media/html.png": "/Nana-portfolio/static/media/html.553214e2577c55adb584.png",
+    "static/media/react.png": "/Nana-portfolio/static/media/react.25051af63aa43aba1cf6.png",
+    "static/media/figma.png": "/Nana-portfolio/static/media/figma.d51db82a0a2d1145173a.png",
+    "static/media/face.jpg": "/Nana-portfolio/static/media/face.dcf631414d07817af48e.jpg",
+    "static/media/profile.png": "/Nana-portfolio/static/media/profile.548f0d207ccc1e2abfb9.png",
+    "static/media/resume.pdf": "/Nana-portfolio/static/media/resume.f2cb54fdd79016e85f44.pdf",
+    "static/media/Logo.png": "/Nana-portfolio/static/media/Logo.a5ee8c14f612832d574e.png",
+    "index.html": "/Nana-portfolio/index.html",
+    "main.487bbef8.css.map": "/Nana-portfolio/static/css/main.487bbef8.css.map",
+    "main.6a0f0277.js.map": "/Nana-portfolio/static/js/main.6a0f0277.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487bbef8.css",
+    "static/js/main.6a0f0277.js"
+  ]
+}
