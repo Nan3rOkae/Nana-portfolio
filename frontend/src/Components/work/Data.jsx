@@ -20,14 +20,6 @@ export const Data = [
     link: "https://github.com/Nan3rOkae/flik",
   },
   {
-    id: 3,
-    image: html,
-    title: "Flixster",
-    description:
-      "I developed a movie lookup website using TMDb API, offering a comprehensive film database, search functionality, and responsive design for optimal user experience across devices.",
-    link: "https://github.com/Nan3rOkae/my_flixster_app",
-  },
-  {
     id: 4,
     image: figma,
     title: "Split",
@@ -42,5 +34,21 @@ export const Data = [
     description:
       "I designed a full-stack web app mockup using Express/Node.js and React.js, featuring interactive features and detailed workflow, wireframes, and UI for seamless user experience.",
     link: "https://www.figma.com/file/pZas6V078R7kKWmPFAw6bJ/Capstone?node-id=2%3A2&t=00Zol29bDKQ88588-0",
+  },
+  {
+    id: 6,
+    image: figma,
+    title: "Student name memory app",
+    description:
+      "I designed an app that helps professors remember their students' names, featuring a simple and intuitive UI and a user-friendly workflow.",
+    link: "https://www.figma.com/file/7hR9252yqyoeYj6OZIQia7/CMSC475-MEMORY-Prototype?node-id=0%3A1&t=fhCNBRmEOPZNCJxp-0",
+  },
+  {
+    id: 3,
+    image: html,
+    title: "Flixster",
+    description:
+      "I developed a movie lookup website using TMDb API, offering a comprehensive film database, search functionality, and responsive design for optimal user experience across devices.",
+    link: "https://github.com/Nan3rOkae/my_flixster_app",
   },
 ];
